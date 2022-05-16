@@ -1,0 +1,4 @@
+- SOBRE MIM 
+- 👋 ola meu nome é @ketleycelest2510
+- meu email é @s.ketley@escola.pr.gov.br
+- eu estou interessado em aprender a programar recetemente a linguagem javaScript e scrash
